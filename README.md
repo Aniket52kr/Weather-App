@@ -64,5 +64,4 @@ Create a responsive and interactive weather application that provides real-time 
 5. **Deployment:**
    - Deploy the app to a hosting service like Vercel, Netlify, or GitHub Pages for public access.
 
-By combining these elements, the weather app provides users with an easy-to-use interface for accessing up-to-date weather information in a visually appealing manner.
->>>>>>> c25fb438e5a49e7742384f844e4074461a5d3002
+
