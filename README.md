@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -65,3 +66,7 @@ Create a responsive and interactive weather application that provides real-time 
 
 By combining these elements, the weather app provides users with an easy-to-use interface for accessing up-to-date weather information in a visually appealing manner.
 >>>>>>> c25fb438e5a49e7742384f844e4074461a5d3002
+=======
+# Weather-App
+A weather app built with ReactJS is designed to work smoothly on any device. It fetches real-time weather data from a service like OpenWeatherMap and updates it using React’s features. The app can find your location automatically or let you enter it manually. It displays the weather with clear icons, graphs, and maps for easy understanding.
+>>>>>>> 49c0dae097390d4f79bf0c3058edc5eba3299f40
